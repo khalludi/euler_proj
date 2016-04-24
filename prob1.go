@@ -10,5 +10,5 @@ func main() {
     }
   }
 
-  fmt.Printf("%d", sum)
+  fmt.Printf("The sum of natural numbers under 1000 with multiples of 3 and 5 is: \n%d", sum)
 }
